@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Aplicação de Gerenciamento de Projetos com Ruby on Rails
-subtitle: Material do minicurso introdutório de Ruby on Rails, ministrado por mim em um evento do IEEE
-tags: Web
+excerpt: Material do minicurso introdutório de Ruby on Rails que ministrei em evento do IEEE.
+tags: [Web, Rails, Portuguese]
+date: 2017-09-05
+comments: true
 ---
 # Minicurso - Ruby on Rails
 Introdução ao Framework de desenvolvimento web *Ruby on Rails* e passo a passo da aplicação de gerenciamento de projetos. Abordaremos aqui os seguintes temas:
